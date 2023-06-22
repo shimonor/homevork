@@ -1,5 +1,6 @@
 <template>
   <students />
+  <h1>akuo</h1>
 </template>
 
 <script setup>
