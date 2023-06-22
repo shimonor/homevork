@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "TerryarrivingTime", "Score": "1" },
+  { "id": 2, "name": "beingLate", "Score": "-1" },
+  { "id": 3, "name": "behavingNicely", "Score": "2" },
+  { "id": 4, "name": "notBehavingWell", "Score": "-2" }
+]
