@@ -8,6 +8,4 @@ import students from "./components/ImportJson.vue";
 </script>
 
 <style>
-#app {
-}
-</style>
+</style>  
